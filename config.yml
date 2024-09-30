@@ -1,0 +1,65 @@
+baseURL: "https://examplesite.com/"
+title: AlvaroEsRo
+paginate: 5
+theme: PaperMod
+
+menu:
+  main:
+    - identifier: Posts
+      name: Posts
+      url: /posts/
+      weight: 10
+    - identifier: Tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: linkedin
+      name: LinkedIn
+      url: https://www.linkedin.com/in/alvaroesro/
+      weight: 30
+    - identifier: github
+      name: Github
+      url: https://github.com/AlvaroEsRo
+      weight: 40
+   
+params:
+  showtoc: true
+
+  cover:
+    linkFullImages: true
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  enableSearch : true
+  recentPostsCount: 5
+
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+  
+  assets:
+    favicon: "/img/fotoperfilfondoblanco.png"  # Ruta a tu favicon
+    favicon16x16: "/img/fotoperfilfondoblanco.png"  # Puedes usar el mismo o cambiar por otra imagen si lo deseas
+    favicon32x32: "/img/fotoperfilfondoblanco.png"  # Puedes usar el mismo o cambiar por otra imagen si lo deseas
+    apple_touch_icon: "/img/fotoperfilfondoblanco.png"  # Ruta al icono para dispositivos Apple
+
+  # Sección opcional para perfil
+  profileMode:
+    enabled: true  # Activar el modo de perfil
+    title: "Álvaro Estévez Rodríguez"
+    subtitle: "Aspiring Engineer & Developer"
+    imageUrl: "/img/fotoperfilfondoblanco.png"
+    imageWidth: 380
+    imageHeight: 300
+    imageTitle: "My Profile Image"
+    buttons:
+      - name: "Posts"
+        url: "posts"
+      - name: "My LinkedIn"
+        url: https://www.linkedin.com/in/alvaroesro/
+
+     
+      
