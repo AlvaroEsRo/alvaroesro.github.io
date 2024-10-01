@@ -5,7 +5,7 @@ description = "Sharing my experience learning LaTeX to create a standout resume.
 tags = ["LaTeX", "Resume", "Personal Development", "Learning"]
 
 [cover]
-image = "img/latex_resume.png"  # Image path
+image = "img/latexresume.png"  # Image path
 alt = "Standout resume created in LaTeX"  # Alt text
 caption = "My journey to building a standout resume using LaTeX"  # Caption
 relative = true  # Relative path
