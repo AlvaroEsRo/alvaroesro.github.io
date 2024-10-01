@@ -15,7 +15,7 @@ relative = true  # Relative path
 
 Two days ago, I didn’t know anything about LaTeX. But I had a task: to create a resume that would truly stand out. We all know that first impressions count, and with resumes, it’s no different. So I knew I had to go beyond the typical Word templates that everyone uses.
 
-💡 That’s when I decided to dive into LaTeX.
+💡 That’s when I decided to learn LaTeX.
 
 Instead of aiming for a standard design, I wanted my resume to be unique, polished, and professional—something that reflected the effort and detail I put into everything I do. I realized that, although my experience is still growing, the way I present myself could set me apart from others. And LaTeX, with its precision and design flexibility, was the perfect tool to help me achieve that.
 
