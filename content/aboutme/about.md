@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2024-09-30
-draft: true  # Esto evita que el post se publique
+draft: false  # Esto evita que el post se publique
 ---
 
 # 👋 About Me
