@@ -10,7 +10,7 @@ relative = true
 
 🎓 I am currently in my last year of **Telecommunications Engineering** at **Universidad Politécnica de Madrid**. I am focused on finishing my degree and doing as many activities as possible to expand my knowledge.
 
-| 💻 I have expertise in programming languages like **Java** and **MATLAB**. I also understand **signal processing**, **network protocols**, **wireless communications**, and **fiber optics**. {{< figure src="/img/fotoamanecer.jpg" alt="Myself" caption="Myself" >}} 
+| 💻 I have expertise in programming languages like **Java** and **MATLAB**. I also understand **signal processing**, **network protocols**, **wireless communications**, and **fiber optics**. {{< figure src="/img/fotoamanecer.png" alt="Myself" caption="Myself" >}} 
 
 🔧 I enjoy finding solutions to problems, even if it means working on them for days. **The satisfaction and joy of solving them is worth it!**  
 I'm open to any **proposals!** You can download my CV [here](https://github.com/AlvaroEsRo/Resume/raw/main/RESUME_ALVARO_ESTEVEZ.pdf).
