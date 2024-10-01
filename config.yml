@@ -3,6 +3,7 @@ title: AlvaroEsRo
 paginate: 5
 theme: PaperMod
 
+
 menu:
   main:
     - identifier: Posts
@@ -23,8 +24,9 @@ menu:
       weight: 40
    
 params:
-  showtoc: true
 
+  showtoc: true
+  tocopen: true
   cover:
     linkFullImages: true
 
