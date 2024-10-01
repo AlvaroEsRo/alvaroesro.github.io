@@ -6,7 +6,7 @@ draft: true  # Esto evita que el post se publique
 
 # 👋 About Me
 
-Hi there! I’m Álvaro Estévez Rodríguez, and I’m currently working on exciting projects in the field of engineering and software development. I’m passionate about creating innovative solutions and learning new technologies.
+Hi there!  Álvaro Estévez Rodríguez, and I’m currently working on exciting projects in the field of engineering and software development. I’m passionate about creating innovative solutions and learning new technologies.
 
 
 {{< figure src="/img/fotoperfilfondoblanco.png" alt="Alvaro Estevez ">}}
