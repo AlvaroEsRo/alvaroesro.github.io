@@ -48,7 +48,7 @@ params:
 
   # Sección opcional para perfil
   profileMode:
-    enabled: true  # Activar el modo de perfil
+    enabled: false  # Activar el modo de perfil
     title: "Álvaro Estévez Rodríguez"
     subtitle: "Aspiring Engineer & Developer"
     imageUrl: "/img/fotoperfilfondoblanco.png"
