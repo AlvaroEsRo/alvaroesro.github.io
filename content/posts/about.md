@@ -1,9 +1,11 @@
 +++
-title = "About Me"
+title = "Welcome"
 date = 2024-10-01T20:31:17+02:00
 draft = false
 url = "/"
 +++
+
+# About Me
 
 🎓 I am currently in my last year of **Telecommunications Engineering** at **Universidad Politécnica de Madrid**. I am focused on finishing my degree and doing as many activities as possible to expand my knowledge.
 
