@@ -3,7 +3,6 @@ title: AlvaroEsRo
 paginate: 5
 theme: PaperMod
 
-
 menu:
   main:
     - identifier: Posts
@@ -24,9 +23,9 @@ menu:
       weight: 40
    
 params:
-
   showtoc: true
   tocopen: true
+  
   cover:
     linkFullImages: true
 
@@ -42,5 +41,5 @@ params:
     favicon32x32: "/img/fotoperfilfondoblanco.png"  # Puedes usar el mismo o cambiar por otra imagen si lo deseas
     apple_touch_icon: "/img/fotoperfilfondoblanco.png"  # Ruta al icono para dispositivos Apple
 
-
+  disablePoweredBy: true
       
