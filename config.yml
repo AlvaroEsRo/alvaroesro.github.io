@@ -33,7 +33,7 @@ params:
   ShowPostNavLinks: true
   enableSearch : true
   recentPostsCount: 5
-  
+
   assets:
     favicon: "/img/fotoperfilfondoblanco.png"  # Ruta a tu favicon
     favicon16x16: "/img/fotoperfilfondoblanco.png"  # Puedes usar el mismo o cambiar por otra imagen si lo deseas
