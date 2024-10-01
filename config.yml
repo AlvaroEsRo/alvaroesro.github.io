@@ -33,12 +33,6 @@ params:
   ShowPostNavLinks: true
   enableSearch : true
   recentPostsCount: 5
-
-
-  label:
-    text: "Home"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
   
   assets:
     favicon: "/img/fotoperfilfondoblanco.png"  # Ruta a tu favicon
