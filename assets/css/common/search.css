@@ -1,0 +1,57 @@
+#searchbox {
+    margin-bottom: 20px; /* Espacio entre la barra de búsqueda y otros elementos */
+}
+
+#searchbox input {
+    padding: 4px 10px;
+    width: 100%;
+    color: var(--primary);
+    font-weight: bold;
+    border: 2px solid var(--tertiary);
+    border-radius: var(--radius);
+    transition: border-color 0.3s ease; /* Añadido para una transición suave */
+}
+
+#searchbox input:focus {
+    border-color: var(--secondary);
+    outline: none; /* Elimina el borde azul por defecto en algunos navegadores */
+}
+
+#searchResults {
+    margin: 10px 0;
+    width: 100%;
+    padding: 0; /* Elimina padding para mantener los resultados ajustados */
+}
+
+#searchResults li {
+    list-style: none;
+    border-radius: var(--radius);
+    padding: 10px;
+    margin: 10px 0;
+    position: relative;
+    font-weight: 500;
+    background-color: white; /* Fondo blanco para los resultados */
+    transition: transform 0.1s, background-color 0.3s; /* Añadido para una transición suave */
+}
+
+#searchResults li:hover {
+    background-color: var(--tertiary); /* Color de fondo al pasar el mouse */
+}
+
+#searchResults li:active {
+    transform: scale(0.98);
+}
+
+#searchResults a {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    outline: none; /* Elimina el borde de enfoque en navegadores */
+}
+
+#searchResults .focus {
+    transform: scale(0.98);
+    border: 2px solid var(--tertiary);
+}
