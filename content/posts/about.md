@@ -25,6 +25,6 @@ Right now, I’m looking for a **master's program** to study abroad outside of m
 ## Contact Info
 
 📍 Currently in Madrid, Spain  
-✉️ Email: [aestevezro@gmail.com](mailto:contact@alvaroesro.com)  
+✉️ Email: [contact@alvaroesro.com](mailto:contact@alvaroesro.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/alvaroesro/)  
 🐱 [GitHub](https://github.com/AlvaroEsRo)
