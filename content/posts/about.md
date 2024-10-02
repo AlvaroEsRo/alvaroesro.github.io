@@ -9,13 +9,14 @@ relative = true
 
 # About Me
 
-🎓 I am currently in my last year of **Telecommunications Engineering** at **Universidad Politécnica de Madrid**. I am focused on finishing my degree and doing as many activities as possible to expand my knowledge. {{< figure align=center src="/img/fotoamanecer.png" alt="Myself" class="float-right" >}}
+🎓 I am currently in my last year of **Telecommunications Engineering** at **Universidad Politécnica de Madrid**. I am focused on finishing my degree and doing as many activities as possible to expand my knowledge. 
+
+{{< figure align=center src="/img/fotoamanecer.png" alt="Myself" class="float-right" >}}
 
 💻 I have expertise in programming languages like **Java** and **MATLAB**. I also understand **signal processing**, **network protocols**, **wireless communications**, and **fiber optics**. 
 
 
-🔧 I enjoy finding solutions to problems, even if it means working on them for days. **The satisfaction and joy of solving them is worth it!**  
-I'm open to any **proposals!** You can download my CV [here](https://github.com/AlvaroEsRo/Resume/raw/main/RESUME_ALVARO_ESTEVEZ.pdf).
+🔧 I enjoy finding solutions to problems, even if it means working on them for days. **The satisfaction and joy of solving them is worth it!** I'm open to any **proposals!** You can download my CV [here](https://github.com/AlvaroEsRo/Resume/raw/main/RESUME_ALVARO_ESTEVEZ.pdf).
 
 # My Future Plans
 

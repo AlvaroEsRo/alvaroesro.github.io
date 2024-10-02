@@ -1,16 +1,17 @@
 +++
-title = "Building My Personal Website: A Hub for Projects and Discoveries"
+title = "Building My Personal Website"
 date = "2024-10-02"
 description = "Creating a personal website to showcase my projects and share my findings."
 tags = ["Web Development", "Projects", "Learning"]
+weight = 2
 +++
 
 ## Introduction
 
-In a world where having an online presence is key, most people rely on platforms like **LinkedIn** to display their professional journey. While it's a great tool, I felt it wasn't enough for me. I needed more than just a place to list my achievements—I wanted a space where I could share my projects, findings, and the challenges I've faced head-on. That’s when I decided to build my own **personal website**. 
+In a world where having an online presence is key, most people rely on platforms like **LinkedIn** to display their professional journey. While it's a great tool, I felt it wasn't enough for me. I needed more than just a place to list my achievements—I wanted a space where I could share my projects, findings, and the challenges I've faced off. That’s when I decided to build my own **Personal Website**. 
 
 
-### 🔧 What You’ll Find on My Website:
+## 🔧 What You’ll Find on My Website:
 - **Project Portfolio**: Here, I’ll be documenting all my projects, from university assignments to personal experiments. Each project comes with a detailed breakdown of the challenges I faced, the solutions I implemented, and what I learned in the process.
 - **Blog**: I plan to share my thoughts, experiences, and technical findings on a variety of topics. 
 - **Skills and Tools**: The website also highlights the various tools and languages I’ve mastered, along with practical examples of how I’ve applied them.
@@ -25,7 +26,7 @@ One of the most exciting parts of building this website was how much I learned i
 
 ## 🛠️ Challenges Faced
 
-Building a website sounds straightforward, but like any project, it came with its own set of challenges. The biggest hurdle was ensuring the site looked good on both **desktop** and **mobile devices**. Responsive design is crucial, especially when I know potential employers or collaborators might check out my portfolio on their phones. Another challenge was making the site **scalable**. As I continue to learn and take on new projects, I wanted to make sure that my website can easily grow alongside me without becoming cluttered or difficult to navigate.
+Building a website sounds straightforward, but like any project, it came with its own set of challenges. The biggest problem was ensuring the site looked good on both **desktop** and **mobile devices**. Responsive design is crucial, especially when I know potential employers or collaborators might check out my portfolio on their phones. Another challenge was making the site **scalable**. As I continue to learn and take on new projects, I wanted to make sure that my website can easily grow alongside me without becoming cluttered or difficult to navigate.
 
 ## 💡 What’s Next?
 

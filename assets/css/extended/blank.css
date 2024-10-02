@@ -1,0 +1,14 @@
+.float-right {
+    float: right;
+    margin-top: -20px;
+    margin-left: 20px;
+    margin-bottom: 20px; 
+    width: 250px;
+    height: 200px;
+}
+
+@media (max-width: 768px) {
+    .float-right {
+        display: none; 
+    }
+}

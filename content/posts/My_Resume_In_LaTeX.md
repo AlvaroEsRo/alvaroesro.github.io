@@ -1,5 +1,5 @@
 +++
-title = "My Journey to Building a Standout Resume"
+title = "Building a Standout Resume"
 date = "2024-09-30"
 description = "Sharing my experience learning LaTeX to create a standout resume."
 tags = ["LaTeX", "Resume", "Personal Development", "Learning"]
