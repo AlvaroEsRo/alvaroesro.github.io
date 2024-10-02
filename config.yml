@@ -30,7 +30,7 @@ params:
     linkFullImages: true
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   enableSearch : true
   recentPostsCount: 5
