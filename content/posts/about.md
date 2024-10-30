@@ -20,11 +20,11 @@ I'm open to any **proposals!** You can download my CV [here](https://github.com/
 
 # My Future Plans
 
-Right now, I’m looking for a **master's program** to study abroad outside of my country, Spain. I want to have an international experience, meet new people, and learn from others. I’d also like to understand how people work in different countries and ask myself whether I want to stay in that country or come back to Spain.
+Currently, I’m seeking an **internship** opportunity to complement my studies and develop a project that will serve as the foundation for my final thesis. This experience will not only contribute to my practical skills but also allow me to explore potential areas of expertise for my future career.
 
 ## Contact Info
 
 📍 Currently in Madrid, Spain  
-✉️ Email: [contact@alvaroesro.com](mailto:contact@alvaroesro.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/alvaroesro/)  
-🐱 [GitHub](https://github.com/AlvaroEsRo)
+[contact@alvaroesro.com](mailto:contact@alvaroesro.com)        
+[in/alvaroesro](https://www.linkedin.com/in/alvaroesro/)  
+[github.com/AlvaroEsRo](https://github.com/AlvaroEsRo)

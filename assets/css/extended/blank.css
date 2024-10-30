@@ -13,3 +13,12 @@
     }
 }
 
+
+.article-content a {
+    color: #FF5733;
+    text-decoration: none;
+}
+.article-content a:hover {
+    color: #FF8C42;
+}
+
