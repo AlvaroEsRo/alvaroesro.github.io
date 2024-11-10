@@ -25,6 +25,6 @@ Currently, I’m seeking an **internship** opportunity to complement my studies 
 ## Contact Info
 
 📍 Currently in Madrid, Spain  
-[contact@alvaroesro.com](mailto:contact@alvaroesro.com)        
+[mail@alvaroesro.com](mailto:mail@alvaroesro.com)        
 [in/alvaroesro](https://www.linkedin.com/in/alvaroesro/)  
 [github.com/AlvaroEsRo](https://github.com/AlvaroEsRo)
