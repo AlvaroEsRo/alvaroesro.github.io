@@ -4,11 +4,11 @@ title = "How We Won Our First Hackathon: Unlocking Data Connections with the XFS
 date = "2024-12-04"
 description = "Exploring the design and implementation of a scalable graph database for credential management with domain-specific metadata."
 tags = ["Graph Database", "Neo4j", "MongoDB", "FastAPI", "Docker", "Mage AI", "Postman"]
+weight = 2
 
 [cover]
 image = "img/FotoHackaton.jpg"  # Path to the image
 relative = true  # Use relative path
-weight = 2
 +++
 
 ## Introduction
