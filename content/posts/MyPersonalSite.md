@@ -3,7 +3,6 @@ title = "Building My Personal Website"
 date = "2024-10-02"
 description = "Creating a personal website to showcase my projects and share my findings."
 tags = ["Web Development", "Projects", "Learning"]
-weight = 2
 +++
 
 ## Introduction

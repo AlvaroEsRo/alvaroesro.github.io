@@ -8,6 +8,7 @@ tags = ["Graph Database", "Neo4j", "MongoDB", "FastAPI", "Docker", "Mage AI", "P
 [cover]
 image = "img/FotoHackaton.jpg"  # Path to the image
 relative = true  # Use relative path
+weight = 2
 +++
 
 ## Introduction
